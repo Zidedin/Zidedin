@@ -1,0 +1,4 @@
+job_applications.csv
+__pycache__/
+*.pyc
+.env
